@@ -12,14 +12,11 @@ img {
   height:200px;border-radius:100%;
 }
 h1{
-color:#66BFBF;style=font-size:30%;
+color:#66BFBF;
 }
 h3{
-color:#55AE95;style=font-size:30%;
+color:#55AE95;
 }
-td{
-  style=font-size:30%;
-}
-p{
-  style=font-size:30%;
+table{
+  font-size:100%;
 }
